@@ -4,7 +4,7 @@ This repository contains torrent files used by the main OpenBit website.
 
 Main website repository:
 
-- `https://github.com/your-username/openbit`
+- `https://github.com/dozirod/openbit`
 
 ## Structure
 
